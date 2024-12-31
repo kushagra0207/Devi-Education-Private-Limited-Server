@@ -1,7 +1,7 @@
 const User = require("../models/user-model");
 const jwt = require("jsonwebtoken");
 const nodemailer = require("nodemailer");
-const baseUrl = process.env.BASE_URL || 'http://localhost:5000';
+const baseUrl = 'https://devi-education.onrender.com';
 const bcrypt = require("bcryptjs");
 
 
