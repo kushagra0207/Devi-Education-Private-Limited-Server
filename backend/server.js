@@ -17,7 +17,7 @@ const errorMidleware = require("./middlewares/error-middleware");
 
 
 const corsOptions = {
-    origin: "https://earnest-heliotrope-2d3029.netlify.app",
+    origin: "https://statuesque-faloodeh-1aa267.netlify.app",
     methods: "GET, POST, PUT, DELETE, PATCH, HEAD",
     credentials: true,
 
