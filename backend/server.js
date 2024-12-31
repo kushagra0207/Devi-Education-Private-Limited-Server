@@ -17,7 +17,7 @@ const errorMidleware = require("./middlewares/error-middleware");
 
 
 const corsOptions = {
-    origin: "https://devi-education-front.vercel.app",
+    origin: "https://earnest-heliotrope-2d3029.netlify.app",
     methods: "GET, POST, PUT, DELETE, PATCH, HEAD",
     credentials: true,
 
